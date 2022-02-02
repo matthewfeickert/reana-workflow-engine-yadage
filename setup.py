@@ -44,7 +44,6 @@ install_requires = [
     "checksumdir>=1.1.4,<1.2",
     "graphviz>=0.12",  # FIXME needed only if yadage visuale=True.
     "mock>=3.0,<4",
-    "packtivity==0.14.21",
     "pydot>=1.0.29",  # FIXME needed only if yadage visuale=True.
     "pydotplus>=2.0.2",  # FIXME needed only if yadage visuale=True.
     "pygraphviz>=1.5",  # FIXME needed only if yadage visuale=True.
